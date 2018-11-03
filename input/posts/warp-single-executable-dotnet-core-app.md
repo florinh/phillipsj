@@ -13,7 +13,7 @@ Tags:
 
 ## Downloading Warp
 
-Head over to the Github page and find the Warp executable for your platform. I am working on a Linux system so these instructions will be based on that.
+Head over to the GitHub page and find the Warp executable for your platform. I am working on a Linux system so these instructions will be based on that.
 
 These commands download Warp and places in your local usr bin folder.
 
