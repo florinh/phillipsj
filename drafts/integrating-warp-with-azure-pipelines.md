@@ -101,7 +101,9 @@ warp-packer --arch linux-x64 --input_dir src/pipelines-demo-app/bin/Release/netc
 
 ![](/images/warp-pipelines/ModifiedWarpPackerTask.png)
 
-Now all that is is left is to grab the executable created by Warp and add it to your artifacts. Adding a *Copy Files* task to move the executable to the artifacts directory so it gets bundled. 
+Now all that is is left is to grab the executable created by Warp and add it to your artifacts. Adding a *Copy Files* task to move the executable to the artifacts directory so it gets bundled.
+
+![](/images/warp-pipelines/AddTask.png)
 
 ## Download it and see if it runs
 
